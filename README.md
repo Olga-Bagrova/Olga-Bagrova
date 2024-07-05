@@ -26,7 +26,6 @@ This is the github of an aspiring bioinformatician. I graduated from the <a href
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Biopython](https://github.com/Olga-Bagrova/readme_checking/blob/main/badges/biopython.svg?raw=true)
-
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-161042?style=for-the-badge&logo=Tidyverse&logoColor=white) <!---dplyr, ggplot2, tidyverse, tidyr, ape, ggtree-->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
