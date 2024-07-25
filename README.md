@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/olgabagrova-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/olga-bagrova-5812422a0)
 [![Gmail](https://img.shields.io/badge/-olgabagrova98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:olgabagrova98@gmail.com) 
-[![Telegram](https://img.shields.io/badge/-@OlgaB_MSU-%232CA5E0?style=flat-square&logo=Telegram&logoColor=white])](https://t.me/OlgaB_MSU)
+[![Telegram](https://img.shields.io/badge/-@OlgaB_MSU-%232CA5E0?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/OlgaB_MSU)
 <!---[![Twitter](https://img.shields.io/badge/Twitter--alga_3-brightgreen?style=social&logo=Twitter)](https://twitter.com/alga_3)-->
 
 
