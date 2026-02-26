@@ -12,7 +12,7 @@
 
 
 <p>
-This is the github of an aspiring bioinformatician. I graduated from the <a href="https://bioinf.me/en">Bioinformatics Institute</a> as a biostatistician and bioinformatician and the <a href="https://msu.ru/en/">Lomonosov Moscow State University</a> with BSc and MSc degrees in Biophysics. My experience encompasses collaboration with virologists, biochemists, and immunologists. However, my primary passion lies in researching the structure and properties of proteins.
+This is the github of an aspiring bioinformatician. I graduated from the <a href="https://bioinf.me/en">Bioinformatics Institute</a> as a biostatistician and bioinformatician and the <a href="https://msu.ru/en/">Lomonosov Moscow State University</a> with BSc and MSc degrees in Biophysics. My experience encompasses collaboration with virologists, biochemists, and immunologists. However, my primary passion lies in researching the structure and evolution of proteins.
 </p>
 
 
